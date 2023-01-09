@@ -1,0 +1,29 @@
+[33mcommit 8b56fd7831fd74d88f622137b40458edb47cfbc4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Juan Angel <juanangel07595gmail.com>
+Date:   Mon Jan 9 13:33:32 2023 -0500
+
+    Commit al master del blogpost mas reciente
+
+ blogpost.html | 10 [32m+++++++[m[31m---[m
+ estilos.css   | 19 [32m++++++++++++++++++[m[31m-[m
+ 2 files changed, 25 insertions(+), 4 deletions(-)
+
+[33mcommit 0b53f09846d2979387de1677c71dfae760912c39[m
+Author: Juan Angel <juanangel07595gmail.com>
+Date:   Thu Dec 29 13:52:14 2022 -0500
+
+    Arranco mi proyecto con html y css
+
+ blogpost.html | 11 [32m+++++++++++[m
+ estilos.css   |  6 [32m++++++[m
+ historia2.txt |  4 [32m+++[m[31m-[m
+ 3 files changed, 20 insertions(+), 1 deletion(-)
+
+[33mcommit b0e56bd2a1d938fa7c4e8dfcb29a4b5119ace3d1[m
+Author: Juan Angel <juanangel07595gmail.com>
+Date:   Wed Dec 28 19:03:52 2022 -0500
+
+    Cambio 2
+
+ historia2.txt | 3 [32m+++[m
+ 1 file changed, 3 insertions(+)
